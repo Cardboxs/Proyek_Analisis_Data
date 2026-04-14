@@ -1,0 +1,4 @@
+pandas # pandas==2.3.3
+matplotlib # matplotlib==3.10.8
+seaborn # seaborn==0.13.2
+streamlit # streamlit==1.55.0
